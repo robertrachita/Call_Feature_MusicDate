@@ -136,3 +136,7 @@ const setPlayVideo = () => {
 function leave() {
     window.location.replace("https://musicdatestenden.herokuapp.com/");
 }
+
+function sheets() {
+    window.open("https://musicdatestenden.herokuapp.com/musicsheets");
+}
